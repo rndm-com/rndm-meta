@@ -1,0 +1,16 @@
+{
+  "name": "@rndm/meta",
+  "version": "0.1.0",
+  "description": "RNDM Higher Order Component for auto generating metadata",
+  "author": "RNDM",
+  "license": "Apache-2.0",
+  "main": "src/index.js",
+  "homepage": "https://github.com/rndm-com/rndm-meta#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rndm-com/rndm-meta.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rndm-com/rndm-meta/issues"
+  }
+}
