@@ -11,7 +11,7 @@ Make sure you have [Node.js](http://nodejs.org/) installed.
 Then, to get started simply run the following command from your preferred terminal interface:
 
 ```sh
-npm install -g @rndm/meta
+npm install --save @rndm/meta
 ```
 
 ## Usage

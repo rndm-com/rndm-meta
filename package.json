@@ -1,7 +1,7 @@
 {
   "name": "@rndm/meta",
   "version": "0.1.0",
-  "description": "RNDM Higher Order Component for auto generating metadata",
+  "description": "RNDM Higher Order Component for auto generating metadata html",
   "author": "RNDM",
   "license": "Apache-2.0",
   "main": "src/index.js",
